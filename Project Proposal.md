@@ -66,3 +66,19 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 3. http://www.gdcvault.com/play/1268/(307)-Characters-Welcome-Next-Steps - “Characters Welcome: Next Steps Towards Human AI”, Phil Carlisle, Richard Evans, Daniel Kline, Dave Mark, Borut Pfeifer, Robert Zubek (2009)
 4. Kouritzin, M. Newton, F. Wu, B (2013). On Random Field Completely Automated Public Turing Test to Tell Computers and Humans Apart Generation. p1.
 5. Rapaport, W (2000). How to pass a turing test. p2.
+ 
+# __Add Group Meetings Table__
+
+## Mark Allocation 
+
+Marlon Gilliam 14471455; = 17.6
+Benjamin Stock 13457465;=17.6
+Emmanuel Uanseru 13454941;=17.6
+Stefano Rinaldi 14480397; =17.6
+Benjamin Rogers 14470874; =17.6
+Matthew Webster 13466955 =11.6
+
+## Online Video Pitch 
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/f1nh2fe1AHA/0.jpg)](http://www.youtube.com/watch?v=f1nh2fe1AHA)
+
