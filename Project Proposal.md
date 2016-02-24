@@ -80,5 +80,5 @@ Matthew Webster 13466955 =11.6
 
 ## Online Video Pitch 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/f1nh2fe1AHA/0.jpg)](http://www.youtube.com/watch?v=f1nh2fe1AHA)
+[![IMAGE ALT TEXT HERE](https://github.com/BenjaminJStock/Group26/blob/master/YoutubeScreenShot.png)](http://www.youtube.com/watch?v=f1nh2fe1AHA)
 
