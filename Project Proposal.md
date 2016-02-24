@@ -30,3 +30,10 @@ We are aiming to create a game that is enjoyable when played with either a frien
 We look to develop an AI that behaves in a mannerism that appears to be human like, and doesn’t pertain to the traditional and inhuman traits found in most common video game AIs.
 Furthering this, we will look to craft a system whereby the AI can record the player’s behaviours and devise methods by which it can counteract these actions.
 Given the situation where all these aims are met, the final product should be a game where the AI is indistinguishable from another human player. This will be due to its humanised characteristics and its unpredictable, occasionally illogical, actions. It should be developed to a stage where the AI can lose intentionally in order to gain knowledge about the player, which it would then use to win.
+
+# **ADD LIT REVIEW
+
+## Project Plan and Timescales
+
+In order to plan our timescales and that tasks that we needed to perform later on in the project. We decided to use a Gantt chart, as it specifies what task each person in the group is doing, and the timescale that they have for that task. The chart on the right shows each individual task and the category that they fall into. It clearly states the start and end date, as well as who we decided as a group, that the task is allocated to. This means that there should be no excuse for anyone being late on doing their tasks.
+The chart below is a timeline of the tasks that we need to do in order to complete our project. We decided to group our tasks into four different categories; Planning, Programming and Design, Testing, and Reports and Findings. We decided to group the tasks as they help to show how well we are on track according to our plans.
