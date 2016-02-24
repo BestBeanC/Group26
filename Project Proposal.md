@@ -61,9 +61,8 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 
 ## References 
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+1. http://philpapers.org/archive/EVARPT -Evans, R “Representing Personality Traits as Conditionals” Research Paper (2008)
+2. http://www.gdcvault.com/play/1261/(307)-Breaking-the-Cookie-Cutter - “Breaking the Cookie-Cutter: Modeling Individual Personality, Mood, and Emotion in Characters”,  Phil Carlisle, Richard Evans, Dave Mark. (2009)
+3. http://www.gdcvault.com/play/1268/(307)-Characters-Welcome-Next-Steps - “Characters Welcome: Next Steps Towards Human AI”, Phil Carlisle, Richard Evans, Daniel Kline, Dave Mark, Borut Pfeifer, Robert Zubek (2009)
+4. Kouritzin, M. Newton, F. Wu, B (2013). On Random Field Completely Automated Public Turing Test to Tell Computers and Humans Apart Generation. p1.
+5. Rapaport, W (2000). How to pass a turing test. p2.
