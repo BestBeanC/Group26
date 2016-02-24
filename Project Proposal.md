@@ -24,3 +24,9 @@ When discussing the idea for what game to make, many ideas were put forward. Gam
 We then discussed more visual based games like Connect 4 and chess as viable options. Although easier to develop, Connect 4 would not really challenge the group in any way. The mechanics and dynamics of games of this nature would not serve as a complex enough base for our AI system. Chess was deemed almost the opposite, with millions of permutations for any game, the system would be far beyond the scope of the group’s skillset.
 Following the decision to develop our own game we decided that designing a system with a limited number of moves would lead to fluid player interaction as well as being manageable for AI programming. Having only a limited number of moves in the game means we can develop at a pace that the group is comfortable with, reducing the risk of running over the allotted time in our project plan.
 
+## Project Aims
+
+We are aiming to create a game that is enjoyable when played with either a friend or versus an AI.
+We look to develop an AI that behaves in a mannerism that appears to be human like, and doesn’t pertain to the traditional and inhuman traits found in most common video game AIs.
+Furthering this, we will look to craft a system whereby the AI can record the player’s behaviours and devise methods by which it can counteract these actions.
+Given the situation where all these aims are met, the final product should be a game where the AI is indistinguishable from another human player. This will be due to its humanised characteristics and its unpredictable, occasionally illogical, actions. It should be developed to a stage where the AI can lose intentionally in order to gain knowledge about the player, which it would then use to win.
