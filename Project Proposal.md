@@ -41,3 +41,7 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 <p align="center">
   <img src="https://github.com/BenjaminJStock/Group26/blob/master/gantt.png" alt="Gantt Chart Table"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/BenjaminJStock/Group26/blob/master/Gantt_TimeLine.png" alt="Gantt Chart Timeline"/>
+</p>
