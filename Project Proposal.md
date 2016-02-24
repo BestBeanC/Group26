@@ -81,5 +81,5 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 
 ## Online Video Pitch 
 
-[![IMAGE ALT TEXT HERE](https://github.com/BenjaminJStock/Group26/blob/master/YoutubeScreenShot.png)](http://www.youtube.com/watch?v=f1nh2fe1AHA)
+[![IMAGE ALT TEXT HERE](https://github.com/BenjaminJStock/Group26/blob/master/YoutubeScreenShot.png)](target="_blank) "http://www.youtube.com/watch?v=f1nh2fe1AHA)
 
