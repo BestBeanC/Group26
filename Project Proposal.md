@@ -58,3 +58,12 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 | AI code too ambitious                                                            | Medium                        | High                      | Allow more time for AI development Have a backup project with less ambitious AI prepared                                                                                                                                                             |
 | Visuals of project look amateur, causes user to misunderstand interface          | Medium                        | High                      | Allow more time for development of visuals Test the visual design with users throughout development Outsource visuals to professional entity                                                                                                         |
 | Teams code skill lacking in certain areas                                        | Medium                        | Medium                    | Allow time for research and practice in given areas Try to find methods of production that don’t rely upon these areas Acquire open-source materials to fill gaps in development                                                                     |
+
+## References 
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
