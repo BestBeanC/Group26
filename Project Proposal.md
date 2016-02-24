@@ -71,12 +71,13 @@ The chart below is a timeline of the tasks that we need to do in order to comple
 
 ## Mark Allocation 
 
-⋅⋅*Marlon Gilliam 14471455; = 17.6
-⋅⋅*Benjamin Stock 13457465;=17.6
-⋅⋅*Emmanuel Uanseru 13454941;=17.6
-⋅⋅*Stefano Rinaldi 14480397; =17.6
-⋅⋅*Benjamin Rogers 14470874; =17.6
-⋅⋅*Matthew Webster 13466955 =11.6
+1. Marlon Gilliam 14471455; = 17.6
+2. Benjamin Stock 13457465;=17.6
+3. Emmanuel Uanseru 13454941;=17.6
+4. Stefano Rinaldi 14480397; =17.6
+5. Benjamin Rogers 14470874; =17.6
+6. Matthew Webster 13466955 =11.6
+
 
 ## Online Video Pitch 
 
