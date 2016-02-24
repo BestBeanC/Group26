@@ -10,6 +10,6 @@
   - Benjamin Rogers 14470874; 
   - Matthew Webster 13466955
 
-![Prototype](https://github.com/BenjaminJStock/Group26/blob/master/Proposal.Logo.png "Protoype Logo")
-
-## Intro 
+<p align="center">
+  <img src="https://github.com/BenjaminJStock/Group26/blob/master/Proposal.Logo.png" alt="Prototype Image"/>
+</p>
